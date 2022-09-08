@@ -1,5 +1,6 @@
 "# kafka" 
-Http Basics
+
+Basic request/response
 
 Need of queue or Pub/sub Model 
 
